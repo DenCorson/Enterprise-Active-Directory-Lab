@@ -49,7 +49,7 @@ Complete | Part 3 – Active Directory Domain Services & Domain Controller Promo
 Complete  | Part 4 – Domain Administrator
 Complete | Part 5 – NAT/RAS Configuration 
 Complete  | Part 6 – DHCP Configuration 
-In-work  | Part 7 – Organizational Units & User Administration 
+Complete | Part 7 – Organizational Units & User Administration (Account Global Group Domain Local Group Permission AGDLP)
 In-work  | Part 8 – Windows 11 Domain Join 
 In-work  | Part 9 – PowerShell User Automation 
 In-work  | Part 10 – Group Policy Management 
