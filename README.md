@@ -51,7 +51,7 @@ Complete | Part 5 – NAT/RAS Configuration
 Complete  | Part 6 – DHCP Configuration 
 Complete | Part 7 – Organizational Units & User Administration (Account Global Group Domain Local Group Permission AGDLP)
 Complete | Part 8 – Organizational Units & User Administration (Account Global Group Domain Local Group Permission AGDLP) Using PowerShell
-In-work  | Part 9 – Windows 11 Domain Join 
+Complete | Part 9 – Creating Client Workstastion Joining Enterprise,and Signing in with Enterprise User
 In-work  | Part 10 – Group Policy Management 
 In-work  | Part 11 – Enterprise Administration & Expansion |
 
