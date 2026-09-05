@@ -52,7 +52,7 @@ Complete  | Part 6 – DHCP Configuration
 Complete | Part 7 – Organizational Units & User Administration (Account Global Group Domain Local Group Permission AGDLP)
 Complete | Part 8 – Organizational Units & User Administration (Account Global Group Domain Local Group Permission AGDLP) Using PowerShell
 Complete | Part 9 – Creating Client Workstastion Joining Enterprise,and Signing in with Enterprise User
-In-work  | Part 10 – Group Policy Management 
+Complete  | Part 10 – Creating Group Policy Object (GPO), Linking GPO to enterprise, deploying and verifying GPO allocation to enterprise.
 In-work  | Part 11 – Enterprise Administration & Expansion |
 
 ---
@@ -70,3 +70,4 @@ In-work  | Part 11 – Enterprise Administration & Expansion |
 - Systems Troubleshooting
 - Technical Documentation
 - Enterprise Infrastructure Deployment
+- Group Policy Object (GPO) 
